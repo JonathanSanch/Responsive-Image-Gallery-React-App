@@ -4,6 +4,10 @@
 - React Web Application for an Image Gallery that is responsive to user input. 
 
 ---
+## To view the project and test functionality:
+
+- Go to https://replit.com/@JSanc/React-2-Starter
+
 
 ## Running React on Repl.it
 
