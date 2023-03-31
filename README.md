@@ -1,9 +1,9 @@
 ![Title Banner](Responsive_Image_Gallery.png)
 
 
-# React Web Application for an Image Gallery that is responsive to user input. 
+- React Web Application for an Image Gallery that is responsive to user input. 
 
-
+---
 
 ## Running React on Repl.it
 
