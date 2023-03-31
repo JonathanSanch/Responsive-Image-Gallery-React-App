@@ -4,7 +4,7 @@
 - React Web Application for an Image Gallery that is responsive to user input. 
 
 ---
-## To view the project and test functionality:
+## To View the Project and Test Functionality:
 
 - Go to https://replit.com/@JSanc/React-2-Starter
 
